@@ -1,1 +1,2 @@
-Hola soy [inserte nombre tonto]
+Hola soy [inserte nombre estupido]
+Y estoy aprendiendo a usar git
