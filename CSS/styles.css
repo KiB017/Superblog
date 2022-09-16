@@ -6,16 +6,50 @@ body
     font-size: 16px;
 }
 
+#cabecera
+{
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+    margin: 0;
+    background-color: khaki;
+}
+
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0px;
     text-align: left;
     border: 1px solid khaki;
     margin: 0 auto;
 }
 
+.caja
+{
+    position: relative;
+    animation-name: slide;
+    animation-duration: 3s;
+}
+
 #container h1
 {
     font-size: 20px;
+}
+
+#post
+{
+    padding: 0px;
+}
+
+@keyframes slide
+{
+    0%
+    {
+        left: 100%;
+    }
+    100%
+    {
+        left: 0%;
+    }
 }
