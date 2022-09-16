@@ -3,5 +3,3 @@ Y estoy aprendiendo a usar git
 
 Pense que aprender a como usar git seria un infierno, 
 pero con este curso de platzi se me hace mas facil
-
-Hoy vamos a hablar de mi experiencia con git y github.
