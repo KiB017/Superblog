@@ -1,9 +1,10 @@
 body
 {
-    color: darkblue;
+    color: #DFF6FF;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
+    background-color: #06283D;
 }
 
 #cabecera
@@ -13,7 +14,13 @@ body
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 5px;
     margin: 0;
-    background-color: khaki;
+    background-color: #47B5FF;
+}
+
+#cabecera #logo
+{
+    width: 30px;
+    vertical-align: middle;
 }
 
 #container
@@ -21,7 +28,7 @@ body
     width: 70%;
     padding: 0px;
     text-align: left;
-    border: 1px solid khaki;
+    border: 1px solid #47B5FF;
     margin: 0 auto;
 }
 
