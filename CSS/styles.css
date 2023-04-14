@@ -45,6 +45,13 @@ body
     padding: 0px;
 }
 
+#footer
+{
+    background-color: #DFF6FF;
+    color: #256D85;
+    text-align: center;
+}
+
 @keyframes slide
 {
     0%
