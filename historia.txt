@@ -4,4 +4,6 @@ Y estoy aprendiendo a usar git
 Pense que aprender a como usar git seria un infierno, 
 pero con este curso de platzi se me hace mas facil
 
-Manana va ser mi cumpleanos
+Manana va ser mi 
+
+master 1
