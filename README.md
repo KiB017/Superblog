@@ -6,3 +6,6 @@ ayer hubo gran premio de formula 1 y, aunque no ganase Verstappen, la verdad, la
 tambien comi mucho, comimos lomo de cerdo, papas con tocineta y pedasos de pollo con tocineta.
 de cena tambien comi la cabra loca de lo muyayo y fue genial ese restaurante. 
 Ojala fuera asi todos los dias.
+
+espero mi yo del futuro pueda leer esto. Hasta el momento de hoy estoy en la pucmm y voy a conseguir un trabajo 
+como, no c pero lo tendre
